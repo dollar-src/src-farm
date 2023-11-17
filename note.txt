@@ -1,1 +1,5 @@
-Updated Bug Fixes
+1.1
+Fixed Bulk Plant 
+Fixed Item Count Problems
+Fixed localization (en)
+Added Images Folder for some seeds (13 seed)
