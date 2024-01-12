@@ -1,5 +1,4 @@
-1.2
-Fixed QB Target Zone Problem
-Fixed General Zone Calculation Problem
-Added Open Source Package (sourcedev.pro)
-Fixed High Json Query
+1.3
+Fixed Target Zone Problem
+Fixed Minor Harvest Problem
+Please Update ( download newest version of resource on keymaster )
