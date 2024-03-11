@@ -1,3 +1,5 @@
-1.4
-Fixed Prop Issue while harvesting
-Remove Junk Codes on client side
+1.5
+Fixed qb-target
+Fixed q-target
+Fixed Remove Zones
+Fixed Add Zones
